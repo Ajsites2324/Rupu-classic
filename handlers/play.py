@@ -163,7 +163,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 
         (190, 670),
 
-        f"Powered By: S4Shiv(@Shivamdemon)",
+        f"Powered By: ᴀᴊᴇᴇᴛ(@PAPA_BOL_SAKTEHO)",
 
         (0,0,0),
 
@@ -199,7 +199,7 @@ async def play(_, message: Message):
 
 
 
-    lel = await message.reply("Pʟᴀʏɪɴɢ...Aᴜᴅɪᴏ")
+    lel = await message.reply("ʙᴀʙʏ Pʟᴀʏɪɴɢ...Aᴜᴅɪᴏ ɴᴏᴡ")
 
 
 
@@ -237,7 +237,7 @@ async def play(_, message: Message):
 
                 except:
 
-                    await lel.edit("⚠️ **ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴀs ᴀᴅᴍɪɴ ғɪʀsᴛ ⚠️**")
+                    await lel.edit("⚠️ **ᴘʀᴏᴍᴏᴛᴇ ᴍᴇ ᴀs ᴀᴅᴍɪɴ ʙᴀʙʏ ⚠️**")
 
                     return
 
@@ -249,7 +249,7 @@ async def play(_, message: Message):
 
                     await USER.send_message(
 
-                        message.chat.id, "**ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴᴇᴅ 👍🏻 ɴᴏᴡ ᴘʟᴀʏ ʏᴏᴜʀ ᴍᴜsɪᴄ ғʀᴇᴇʟʏ** ❣️"
+                        message.chat.id, "**ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴᴇᴅ 👍🏻 ɴᴏᴡ ᴘʟᴀʏ ʏᴏᴜʀ ᴍᴜsɪᴄ ғʀᴇᴇʟʏ ɴᴏᴡ ᴘʟᴀʏ ʙᴀʙʏ** ❣️"
 
                     )
 
@@ -303,7 +303,7 @@ async def play(_, message: Message):
 
             raise DurationLimitError(
 
-                f"🙃 **ʜᴇʏ ʏᴏᴜʀ sᴏɴɢ ᴅᴜʀᴀᴛɪᴏɴ ɪs {DURATION_LIMIT} ᴍɪɴᴜᴛᴇs..Sᴇᴀʀᴄʜ ғᴏʀ sᴍᴀʟʟ ᴍᴜsɪᴄ.** ️🤞."
+                f"🙃 **ʜᴇʏ ʙᴀʙʏ ʏᴏᴜʀ sᴏɴɢ ᴅᴜʀᴀᴛɪᴏɴ ɪs {DURATION_LIMIT} ᴍɪɴᴜᴛᴇs..Sᴇᴀʀᴄʜ ғᴏʀ sᴍᴀʟʟ ᴍᴜsɪᴄ.** ️🤞."
 
             )
 
@@ -313,7 +313,7 @@ async def play(_, message: Message):
 
         title = file_name
 
-        thumb_name = "https://telegra.ph/file/22e0f6fd383b078132fd0.jpg"
+        thumb_name = "https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg"
 
         thumbnail = thumb_name
 
@@ -327,9 +327,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                        text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/papa_bol_sakteho"
                     ),
-                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ🎵", url=f"https://t.me/shivamdemon"),
+                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ🎵", url=f"https://t.me/about_ajeet"),
                 ]
             ]
         )
@@ -396,14 +396,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                            text="➤⃝✖‿✖•Ajͥeeͣtͫ", url=f"https://t.me/papa_bol_sakteho"
                         ),
                         InlineKeyboardButton(
-                            text="Gᴇᴛ ᴍᴜsɪᴄ🎵", url=f"{durl}"
+                            text="⚡ᴀʙᴏᴜᴛ⚡", url=f"https://t.me/about_ajeet"
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
+                            text="࿂ʙᴀʙʏ ꜱᴜᴘᴘᴏʀᴛ࿂", url=f"https://t.me/modern_elements"
                         ),
                     ]
                 ]
@@ -413,7 +413,7 @@ async def play(_, message: Message):
 
             title = "NaN"
 
-            thumb_name = "https://telegra.ph/file/22e0f6fd383b078132fd0.jpg"
+            thumb_name = "https://te.legra.ph/file/4b2ec4894a08b0dde7ae3.jpg"
 
             duration = "NaN"
 
@@ -423,14 +423,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                            text="✖‿✖•Ajͥeeͣtͫ", url=f"https://t.me/papa_bol_sakteho"
                         ),
                         InlineKeyboardButton(
-                            text="Gᴇᴛ ᴍᴜsɪᴄ🎵", url=f"{durl}"
+                            text="֍ᴀʙᴏᴜᴛ֍", url=f"https://t.me/about_ajeet"
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
+                            text="࿂ʙᴀʙʏ ꜱᴜᴘᴘᴏʀᴛ࿂", url=f"https://t.me/modern_elements"
                         ),
                     ]
                 ]
@@ -440,7 +440,7 @@ async def play(_, message: Message):
 
             await lel.edit(
 
-                f"🙃 **ʜᴇʏ ʏᴏᴜʀ sᴏɴɢ ᴅᴜʀᴀᴛɪᴏɴ ɪs {DURATION_LIMIT} ᴍɪɴᴜᴛᴇs..sᴇᴀʀᴄʜ ғᴏʀ sᴍᴀʟʟ ᴍᴜsɪᴄ.** ️🤞"
+                f"🙃 **ʜᴇʏ ʙᴀʙʏ ʏᴏᴜʀ sᴏɴɢ ᴅᴜʀᴀᴛɪᴏɴ ɪs {DURATION_LIMIT} ᴍɪɴᴜᴛᴇs..sᴇᴀʀᴄʜ ғᴏʀ sᴍᴀʟʟ ᴍᴜsɪᴄ.** ️🤞"
 
             )
 
@@ -520,14 +520,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                            text="✖‿✖•Ajͥeeͣtͫ", url=f"https://t.me/papa_bol_sakteho"
                         ),
                         InlineKeyboardButton(
-                            text=" Gᴇᴛ ᴍᴜsɪᴄ🎵", url=f"{durl}"
+                            text="֍ᴀʙᴏᴜᴛ֍", url=f"https://t.me/about_ajeet"
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
+                            text="࿂ʙᴀʙʏ ꜱᴜᴘᴘᴏʀᴛ࿂", url=f"https://t.me/modern_elements"
                         ),
                     ]
                 ]
@@ -539,7 +539,7 @@ async def play(_, message: Message):
 
             await lel.edit(
 
-                f"🙃 **ʜᴇʏ ʏᴏᴜʀ sᴏɴɢ ᴅᴜʀᴀᴛɪᴏɴ ɪs {DURATION_LIMIT} ᴍɪɴᴜᴛᴇs..sᴇᴀʀᴄʜ ғᴏʀ sᴍᴀʟʟ ᴍᴜsɪᴄ** ️🤞."
+                f"🙃 **ʜᴇʏ ʙᴀʙʏ ʏᴏᴜʀ sᴏɴɢ ᴅᴜʀᴀᴛɪᴏɴ ɪs {DURATION_LIMIT} ᴍɪɴᴜᴛᴇs..sᴇᴀʀᴄʜ ғᴏʀ sᴍᴀʟʟ ᴍᴜsɪᴄ** ️🤞."
 
             )
 
