@@ -12,23 +12,23 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hᴇʏ ɪᴛs {bn}** \n
 **I ᴀᴍ ʟᴀᴢʏ Aʙᴏᴜᴛ ᴛʏᴘɪɴɢ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ..ɪᴛᴢ ᴀ ʙᴏᴛ ᴍᴀᴅᴇ ғᴏʀ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ Vᴄ.😈❣️
-Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [B•4•Brutal](https://t.me/b_4_brutal_official)**.
+Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [─⃜͢͢𓆩〭⃛〬𓆩〭⃛〬➤⃝✖‿✖•Ajͥeeͣtͫ](https://t.me/papa_bol_sakteho)**.
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💞 ᴏᴡɴᴇʀ ", url="https://t.me/b_4_brutal_official")
+                        "💞 ᴏᴡɴᴇʀ 🥵", url="https://t.me/papa_bol_sakteho")
                   ],[
                     InlineKeyboardButton(
-                        "🔥Aɴʏ Pʀᴏʙʟᴇᴍ ", url="https://t.me/b_4_brutu_rajput"
+                        "🔥ᴀʙᴏᴜᴛ🤗 ", url="https://t.me/about_ajeet"
                     ),
                     InlineKeyboardButton(
-                        "🐬 Gʀᴏᴜᴘ ", url="https://t.me/about_brutu"
+                        "🐬 ꜱᴜᴘᴘᴏʀᴛ 🙈", url="https://t.me/the_professor_network"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "Aᴅᴅ ᴍʏ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴅᴀʀʟɪɴɢ🤭", url=f"https://t.me/Brutu_420_Music_Robot?startgroup=true"
+                        "😘 Aᴅᴅ ᴍᴇ ᴅᴀʀʟɪɴɢ 😘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
                     )]
             ]
         ),
@@ -42,7 +42,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😎 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/S_4_SAHIL_YADAV_Official")
+                        "😎 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/about_ajeet")
                 ]
             ]
         )
